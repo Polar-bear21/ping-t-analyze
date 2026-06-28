@@ -1,0 +1,428 @@
+{
+  "created_at": "2026-06-28T07:48:49",
+  "total_count": 60,
+  "correct_count": 45,
+  "incorrect_count": 15,
+  "questions": [
+    {
+      "question_no": 1,
+      "question_id": "14946",
+      "result": "correct",
+      "title": "以下のコマンドを実行した。プロセスID「1234」に送られるシグナルは次のうちどれか。\n\n$ kill 1234",
+      "category": "プロセスの生成、監視、終了"
+    },
+    {
+      "question_no": 2,
+      "question_id": "14997",
+      "result": "incorrect",
+      "title": "virshコマンドのサブコマンドで、仮想マシンを強制終了するものは次のうちどれか。",
+      "category": "仮想マシン・コンテナの概念と利用"
+    },
+    {
+      "question_no": 3,
+      "question_id": "14771",
+      "result": "incorrect",
+      "title": "フォアグラウンドで実行中のジョブを一時停止したい。どのキーを押下する必要があるか。",
+      "category": "プロセスの生成、監視、終了"
+    },
+    {
+      "question_no": 4,
+      "question_id": "14646",
+      "result": "incorrect",
+      "title": "完全なフォーマットでプロセスを表示するpsコマンドのUNIXオプションは次のうちどれか。",
+      "category": "プロセスの生成、監視、終了"
+    },
+    {
+      "question_no": 5,
+      "question_id": "36860",
+      "result": "correct",
+      "title": "カレントディレクトリにファイル「FileA」のみが存在するとき、正しい説明はどれか。（2つ選択）",
+      "category": "基本的なファイル管理の実行"
+    },
+    {
+      "question_no": 6,
+      "question_id": "34970",
+      "result": "correct",
+      "title": "以下のコマンドの下線部に何をいれるべきか。\n$ cat File | sed 's/Book/A &./___'\n\nFileの内容：\n\n\n出力結果：",
+      "category": "正規表現を使用したテキストファイルの検索"
+    },
+    {
+      "question_no": 7,
+      "question_id": "14912",
+      "result": "incorrect",
+      "title": "systemdの動作するシステムにおいて、メンテナンスのために以下のコマンドでシングルユーザーモードに変更し、作業を行った。\n\n# systemctl rescue\n\n作業が終わったので通常の起動状態に戻したい。どうすれば良いか（3つ選択）",
+      "category": "ブートプロセスとsystemd"
+    },
+    {
+      "question_no": 8,
+      "question_id": "35539",
+      "result": "correct",
+      "title": "user01ユーザでログインしている。このユーザのホームディレクトリ直下にある.shファイルは「a.sh」と「1.sh」である。\nこの 2つのファイルを表示するコマンドはどれか。（2つ選択）",
+      "category": "コマンドラインの操作"
+    },
+    {
+      "question_no": 9,
+      "question_id": "14732",
+      "result": "correct",
+      "title": "任意の1文字を表すメタキャラクタは次のうちどれか。",
+      "category": "コマンドラインの操作"
+    },
+    {
+      "question_no": 10,
+      "question_id": "14928",
+      "result": "correct",
+      "title": "以下のコマンドの説明として正しいものはどれか。\n\n$ tr -s '#' < file1 > file2",
+      "category": "ストリーム、パイプ、リダイレクトの使用"
+    },
+    {
+      "question_no": 11,
+      "question_id": "14426",
+      "result": "correct",
+      "title": "下図のように、「:」で区切られている「/etc/passwd」ファイルから、ユーザー名（1番目のフィールド）とログインシェル（7番目のフィールド）を取り出したい。[　]に当てはまるコマンドは次のうちどれか。",
+      "category": "フィルタを使ったテキストストリームの処理"
+    },
+    {
+      "question_no": 12,
+      "question_id": "14822",
+      "result": "correct",
+      "title": "現在マウントされているファイルシステムの情報が格納されているファイルは次のうちどれか。",
+      "category": "ファイルシステムの作成と管理、マウント"
+    },
+    {
+      "question_no": 13,
+      "question_id": "15006",
+      "result": "correct",
+      "title": "「test.txt」ファイルの空の行を削除して表示したい。次のコマンドの空欄に当てはまる正規表現はどれか。\n\n$ sed '/____/d' test.txt",
+      "category": "正規表現を使用したテキストファイルの検索"
+    },
+    {
+      "question_no": 14,
+      "question_id": "14784",
+      "result": "correct",
+      "title": "「test.txt」ファイルの各行の最初に現れる「pingt」という文字列のみを「hoge」に置換したい。適切なコマンドは次のうちどれか。(全て選択)",
+      "category": "正規表現を使用したテキストファイルの検索"
+    },
+    {
+      "question_no": 15,
+      "question_id": "14461",
+      "result": "correct",
+      "title": "viエディタのコマンドモードにおいて、カーソルの右にバッファの内容を貼り付けるviコマンドは次のうちどれか。",
+      "category": "エディタを使った基本的なファイル編集の実行"
+    },
+    {
+      "question_no": 16,
+      "question_id": "14364",
+      "result": "incorrect",
+      "title": "apt-getコマンドを使用して、ディストリビューションを最新版にしたい。適切なコマンドは次のうちどれか。",
+      "category": "aptコマンドによるパッケージ管理"
+    },
+    {
+      "question_no": 17,
+      "question_id": "14372",
+      "result": "correct",
+      "title": "rpmコマンドを使用して、「procmail」パッケージを「procmail-3.22-9.i386.rpm」にアップグレードしたい。また、パッケージが存在しない場合はインストールしたい。適切なコマンドは次のうちどれか。(全て選択)",
+      "category": "RPMパッケージ管理"
+    },
+    {
+      "question_no": 18,
+      "question_id": "14618",
+      "result": "correct",
+      "title": "物理的な記憶デバイスの領域をまとめ、それを論理的なひとつの大きな記憶デバイスとして扱うことで、物理的なパーティションの仕様に由来する制限を回避できるシステムの名称はどれか。\n最も適切なものを選びなさい。",
+      "category": "ハードディスクのレイアウトとパーティション"
+    },
+    {
+      "question_no": 19,
+      "question_id": "14480",
+      "result": "correct",
+      "title": "ディレクトリ内のファイルやディレクトリを一覧表示するコマンドは次のうちどれか。",
+      "category": "基本的なファイル管理の実行"
+    },
+    {
+      "question_no": 20,
+      "question_id": "34712",
+      "result": "incorrect",
+      "title": "スワップ領域について正しい説明はどれか。",
+      "category": "ファイルシステムの作成と管理、マウント"
+    },
+    {
+      "question_no": 21,
+      "question_id": "14498",
+      "result": "correct",
+      "title": "ファイルやディレクトリを削除するコマンドは次のうちどれか。",
+      "category": "基本的なファイル管理の実行"
+    },
+    {
+      "question_no": 22,
+      "question_id": "14377",
+      "result": "incorrect",
+      "title": "rpmコマンドを使用して、インストール前に「postfix-1.1.12-1.i386.rpm」ファイルからインストールされるファイルを調べたい。適切なコマンドは次のうちどれか。(全て選択)",
+      "category": "RPMパッケージ管理"
+    },
+    {
+      "question_no": 23,
+      "question_id": "14809",
+      "result": "correct",
+      "title": "「/etc/fstab」ファイルに記述するマウントオプションで、「mount -a」コマンドを実行した際にマウントするように指定するものは次のうちどれか。",
+      "category": "ファイルシステムの作成と管理、マウント"
+    },
+    {
+      "question_no": 24,
+      "question_id": "14432",
+      "result": "correct",
+      "title": "ソートされているファイルにある連続して重複した行を1行にまとめて表示するコマンドは次のうちどれか。",
+      "category": "フィルタを使ったテキストストリームの処理"
+    },
+    {
+      "question_no": 25,
+      "question_id": "14632",
+      "result": "correct",
+      "title": "MBR形式、GPT形式のパーティションテーブルをサポートするパーティション操作コマンドはどれか",
+      "category": "ハードディスクのレイアウトとパーティション"
+    },
+    {
+      "question_no": 26,
+      "question_id": "15012",
+      "result": "correct",
+      "title": "デバイスのUUIDを表示できるコマンドは次のうちどれか。(2つ選択)",
+      "category": "ファイルシステムの作成と管理、マウント"
+    },
+    {
+      "question_no": 27,
+      "question_id": "34939",
+      "result": "correct",
+      "title": "指定したカーネルモジュールをアンロードするコマンドは次のうちどれか。（3つ選択）",
+      "category": "ハードウェアの基礎知識と設定"
+    },
+    {
+      "question_no": 28,
+      "question_id": "35528",
+      "result": "correct",
+      "title": "カレントディレクトリ以下の全てのファイルについて、それぞれの単語数を表示するコマンドはどれか。",
+      "category": "ファイルの配置と検索"
+    },
+    {
+      "question_no": 29,
+      "question_id": "14924",
+      "result": "correct",
+      "title": "「ln fileA fileB」とした場合、「変化するもの：変化しないもの」の組み合わせで正しいのはどれか。",
+      "category": "ハードリンクとシンボリックリンク"
+    },
+    {
+      "question_no": 30,
+      "question_id": "14943",
+      "result": "correct",
+      "title": "現在の環境変数PATHに「/usr/local/test」ディレクトリを追加したい。空欄に当てはまるものはどれか。\n\n$ export PATH=____________________",
+      "category": "コマンドラインの操作"
+    },
+    {
+      "question_no": 31,
+      "question_id": "14729",
+      "result": "correct",
+      "title": "bashのシェル変数LPICを削除するコマンドは次うちどれか。",
+      "category": "コマンドラインの操作"
+    },
+    {
+      "question_no": 32,
+      "question_id": "14335",
+      "result": "correct",
+      "title": "依存関係を考慮してカーネルモジュールをロードまたはアンロードするコマンドは次のうちどれか。",
+      "category": "ハードウェアの基礎知識と設定"
+    },
+    {
+      "question_no": 33,
+      "question_id": "14394",
+      "result": "correct",
+      "title": "yumコマンドを使用して、アップデート可能なパッケージを確認したい。適切なコマンドは次のうちどれか。",
+      "category": "yumコマンドによるパッケージ管理"
+    },
+    {
+      "question_no": 34,
+      "question_id": "14818",
+      "result": "correct",
+      "title": "「/etc/fstab」ファイルに記述するマウントオプションで、一般ユーザでマウントを可能にし、本人のみアンマウント出来るようにするものは次のうちどれか。",
+      "category": "ファイルシステムの作成と管理、マウント"
+    },
+    {
+      "question_no": 35,
+      "question_id": "14579",
+      "result": "correct",
+      "title": "「file」ファイルを500行ごとに分割したものを別のファイルに保存したい。また、保存するファイル名は「hogeaa」、「hogeab」などのようにしたい。適切なコマンドは次のうちどれか。",
+      "category": "フィルタを使ったテキストストリームの処理"
+    },
+    {
+      "question_no": 36,
+      "question_id": "14400",
+      "result": "correct",
+      "title": "設定されている全ての環境変数を一覧表示できるコマンドは次のうちどれか。（全て選択）",
+      "category": "コマンドラインの操作"
+    },
+    {
+      "question_no": 37,
+      "question_id": "14607",
+      "result": "correct",
+      "title": "動作中のプロセスの親子関係をツリー状で表示するコマンドは次のうちどれか。(2つ選択)",
+      "category": "プロセスの生成、監視、終了"
+    },
+    {
+      "question_no": 38,
+      "question_id": "14466",
+      "result": "incorrect",
+      "title": "viエディタで、カーソル位置からファイルの先頭に向かって文字列「sbin」を検索したい。適切なviコマンドは次のうちどれか。",
+      "category": "エディタを使った基本的なファイル編集の実行"
+    },
+    {
+      "question_no": 39,
+      "question_id": "14845",
+      "result": "correct",
+      "title": "現在のシェルでのコマンド履歴の保存数を格納する環境変数は次のうちどれか。",
+      "category": "コマンドラインの操作"
+    },
+    {
+      "question_no": 40,
+      "question_id": "14861",
+      "result": "incorrect",
+      "title": "以下の「test.txt」ファイルに対して、「grep '1234.' test.txt」コマンドを実行した時に出力される行はどれか。(全て選択)\n\n$ cat test.txt\n123\n1223\n1233\n12344\n123445\n0123499",
+      "category": "正規表現を使用したテキストファイルの検索"
+    },
+    {
+      "question_no": 41,
+      "question_id": "34708",
+      "result": "incorrect",
+      "title": "apt-getコマンドを使用して、インストール済みの全パッケージを更新したい。適切なコマンドは次のうちどれか。",
+      "category": "aptコマンドによるパッケージ管理"
+    },
+    {
+      "question_no": 42,
+      "question_id": "14424",
+      "result": "incorrect",
+      "title": "行頭にある連続したスペースをタブに変換するコマンドは次のうちどれか。",
+      "category": "フィルタを使ったテキストストリームの処理"
+    },
+    {
+      "question_no": 43,
+      "question_id": "14388",
+      "result": "correct",
+      "title": "yumコマンドを使用して、「php」パッケージをインストールしたい。適切なコマンドは次のうちどれか。",
+      "category": "yumコマンドによるパッケージ管理"
+    },
+    {
+      "question_no": 44,
+      "question_id": "14542",
+      "result": "correct",
+      "title": "MBR形式のハードディスクにおいて、パーティションの作成、削除、変更および情報表示を行うことができるコマンドは次のうちどれか。",
+      "category": "ハードディスクのレイアウトとパーティション"
+    },
+    {
+      "question_no": 45,
+      "question_id": "14562",
+      "result": "correct",
+      "title": "FHS(ファイルシステム階層標準)の説明として正しいものは次のうちどれか。(全て選択)",
+      "category": "ファイルの配置と検索"
+    },
+    {
+      "question_no": 46,
+      "question_id": "14640",
+      "result": "correct",
+      "title": "gzip形式で圧縮したアーカイブファイル「test.tar.gz」の内容を表示したい。適切なコマンドは次のうちどれか。（2つ選択）",
+      "category": "基本的なファイル管理の実行"
+    },
+    {
+      "question_no": 47,
+      "question_id": "14776",
+      "result": "correct",
+      "title": "「test.txt」ファイルからPINという文字列を含む行を抽出したい。適切なコマンドは次のうちどれか。(全て選択)",
+      "category": "正規表現を使用したテキストファイルの検索"
+    },
+    {
+      "question_no": 48,
+      "question_id": "14824",
+      "result": "correct",
+      "title": "シンボリックリンクの説明として正しいものは次のうちどれか。(全て選択)",
+      "category": "ハードリンクとシンボリックリンク"
+    },
+    {
+      "question_no": 49,
+      "question_id": "14842",
+      "result": "correct",
+      "title": "「dir」ディレクトリ内において、自分以外のユーザが所有するファイルを削除できないようにしたい。なお、「dir」ディレクトリのパーミッションは755である。適切なコマンドは次のうちどれか。(全て選択)",
+      "category": "ファイルの所有者とパーミッション"
+    },
+    {
+      "question_no": 50,
+      "question_id": "14879",
+      "result": "correct",
+      "title": "systemdが稼働するシステムにおいて、システム起動時にhttpdサービスが自動起動しないようにしたい。実行すべきコマンドはどれか。",
+      "category": "ブートプロセスとsystemd"
+    },
+    {
+      "question_no": 51,
+      "question_id": "14884",
+      "result": "incorrect",
+      "title": "systemdが稼働するシステムにおいて、次回起動時のランレベルの確認作業を行った。\n\n\n空欄に当てはまるものはどれか（2つ選択）",
+      "category": "ブートプロセスとsystemd"
+    },
+    {
+      "question_no": 52,
+      "question_id": "14993",
+      "result": "incorrect",
+      "title": "virshコマンドのサブコマンドで、XML形式のファイルから仮想マシンを作成し、新規の仮想マシンを起動するものは次のうちどれか。",
+      "category": "仮想マシン・コンテナの概念と利用"
+    },
+    {
+      "question_no": 53,
+      "question_id": "15003",
+      "result": "correct",
+      "title": "umaskコマンドを実行すると以下のように表示された。この場合、新規で作成するファイルのパーミッションの説明として正しいものはどれか。(2つ選択)\n\n$ umask\n0037",
+      "category": "ファイルの所有者とパーミッション"
+    },
+    {
+      "question_no": 54,
+      "question_id": "15004",
+      "result": "correct",
+      "title": "ハードリンクとシンボリックリンクそれぞれの説明として正しいものはどれか。(3つ選択)",
+      "category": "ハードリンクとシンボリックリンク"
+    },
+    {
+      "question_no": 55,
+      "question_id": "15008",
+      "result": "correct",
+      "title": "APTツールにおいて特定のファイルが含まれているパッケージを検索するコマンドは次のうちどれか。",
+      "category": "aptコマンドによるパッケージ管理"
+    },
+    {
+      "question_no": 56,
+      "question_id": "15019",
+      "result": "correct",
+      "title": "SSH接続時のユーザ認証（公開鍵方式）の説明として正しいものはどれか。",
+      "category": "Linuxのインストール、起動、接続、切断と停止"
+    },
+    {
+      "question_no": 57,
+      "question_id": "34680",
+      "result": "incorrect",
+      "title": "ファイルFile内のコメント行（#で始まる行）をカウントできるコマンドラインはどれか。(2つ選択)",
+      "category": "正規表現を使用したテキストファイルの検索"
+    },
+    {
+      "question_no": 58,
+      "question_id": "34684",
+      "result": "correct",
+      "title": "ヒアドキュメントの機能について正しい説明はどれか。",
+      "category": "ストリーム、パイプ、リダイレクトの使用"
+    },
+    {
+      "question_no": 59,
+      "question_id": "39056",
+      "result": "incorrect",
+      "title": "systemdが稼働するシステムにおいて、現在のターゲットを変更して直ちにレスキューモードに切り替えたい。\n実行すべきコマンドはどれか。（2つ選択）",
+      "category": "ブートプロセスとsystemd"
+    },
+    {
+      "question_no": 60,
+      "question_id": "39117",
+      "result": "correct",
+      "title": "スティッキービットが設定された「/tmp」ディレクトリの表示結果について、正しい説明はどれか。（3つ選択）",
+      "category": "ファイルの所有者とパーミッション"
+    }
+  ]
+}

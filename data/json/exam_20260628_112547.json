@@ -1,0 +1,428 @@
+{
+  "created_at": "2026-06-28T11:25:47",
+  "total_count": 60,
+  "correct_count": 48,
+  "incorrect_count": 12,
+  "questions": [
+    {
+      "question_no": 1,
+      "question_id": "35698",
+      "result": "correct",
+      "title": "多数のコンテナを効率的に管理するために、最適なソフトウェアはどれか。",
+      "category": "仮想マシン・コンテナの概念と利用"
+    },
+    {
+      "question_no": 2,
+      "question_id": "39053",
+      "result": "correct",
+      "title": "フォアグラウンドで実行しているプロセスを一時停止したい。どのようにするとよいか。(3つ選択)",
+      "category": "プロセスの生成、監視、終了"
+    },
+    {
+      "question_no": 3,
+      "question_id": "14761",
+      "result": "correct",
+      "title": "dmesgコマンドの標準出力を、lessコマンドの標準入力に渡したい。適切なコマンドは次のうちどれか。",
+      "category": "ストリーム、パイプ、リダイレクトの使用"
+    },
+    {
+      "question_no": 4,
+      "question_id": "14794",
+      "result": "correct",
+      "title": "一般ユーザ用のコマンドを格納するディレクトリは次のうちどれか。",
+      "category": "ハードディスクのレイアウトとパーティション"
+    },
+    {
+      "question_no": 5,
+      "question_id": "14426",
+      "result": "correct",
+      "title": "下図のように、「:」で区切られている「/etc/passwd」ファイルから、ユーザー名（1番目のフィールド）とログインシェル（7番目のフィールド）を取り出したい。[　]に当てはまるコマンドは次のうちどれか。",
+      "category": "フィルタを使ったテキストストリームの処理"
+    },
+    {
+      "question_no": 6,
+      "question_id": "14461",
+      "result": "correct",
+      "title": "viエディタのコマンドモードにおいて、カーソルの右にバッファの内容を貼り付けるviコマンドは次のうちどれか。",
+      "category": "エディタを使った基本的なファイル編集の実行"
+    },
+    {
+      "question_no": 7,
+      "question_id": "14372",
+      "result": "correct",
+      "title": "rpmコマンドを使用して、「procmail」パッケージを「procmail-3.22-9.i386.rpm」にアップグレードしたい。また、パッケージが存在しない場合はインストールしたい。適切なコマンドは次のうちどれか。(全て選択)",
+      "category": "RPMパッケージ管理"
+    },
+    {
+      "question_no": 8,
+      "question_id": "14743",
+      "result": "correct",
+      "title": "「/bin/ls」ファイル(lsコマンドのバイナリファイル)の内容を16進数で表示したい。適切なコマンドは次のうちどれか。",
+      "category": "フィルタを使ったテキストストリームの処理"
+    },
+    {
+      "question_no": 9,
+      "question_id": "14386",
+      "result": "incorrect",
+      "title": "rpmコマンドを使用して、「postfix」パッケージの検査を行いたい。ただし、MD5によるファイルの改ざんの検査は行わないものとする。適切なコマンドは次のうちどれか。(全て選択)",
+      "category": "RPMパッケージ管理"
+    },
+    {
+      "question_no": 10,
+      "question_id": "14393",
+      "result": "correct",
+      "title": "yumコマンドを使用して、キーワード「yum」を含むパッケージを表示させたい。適切なコマンドは次のうちどれか。",
+      "category": "yumコマンドによるパッケージ管理"
+    },
+    {
+      "question_no": 11,
+      "question_id": "14401",
+      "result": "correct",
+      "title": "0文字以上の文字列を表すメタキャラクタは次のうちどれか。",
+      "category": "コマンドラインの操作"
+    },
+    {
+      "question_no": 12,
+      "question_id": "14420",
+      "result": "correct",
+      "title": "「/var/log/messages」ファイルに追記されるログをリアルタイムで表示したい。適切なコマンドは次のうちどれか。なお、表示する行数は5行とする。",
+      "category": "フィルタを使ったテキストストリームの処理"
+    },
+    {
+      "question_no": 13,
+      "question_id": "14427",
+      "result": "correct",
+      "title": "2つのファイルを読み込み、共通するフィールドがある行を結合して表示するコマンドは次のうちどれか。",
+      "category": "フィルタを使ったテキストストリームの処理"
+    },
+    {
+      "question_no": 14,
+      "question_id": "14540",
+      "result": "correct",
+      "title": "apt-getコマンドを使用して、過去に取得したパッケージファイルを削除したい。適切なコマンドは次のうちどれか。",
+      "category": "aptコマンドによるパッケージ管理"
+    },
+    {
+      "question_no": 15,
+      "question_id": "14595",
+      "result": "correct",
+      "title": "trコマンドで使用する文字クラスのうち、スペースを表すものは次のうちどれか。",
+      "category": "フィルタを使ったテキストストリームの処理"
+    },
+    {
+      "question_no": 16,
+      "question_id": "14711",
+      "result": "incorrect",
+      "title": "Linuxカーネルなど、システムを起動するために必須のファイルを格納するディレクトリは次のうちどれか。",
+      "category": "ハードディスクのレイアウトとパーティション"
+    },
+    {
+      "question_no": 17,
+      "question_id": "14741",
+      "result": "correct",
+      "title": "passwdというキーワードと完全に一致した名前を含むmanページを検索するコマンドは次のうちどれか。(2つ選択)",
+      "category": "コマンドラインの操作"
+    },
+    {
+      "question_no": 18,
+      "question_id": "14750",
+      "result": "incorrect",
+      "title": "viエディタで読み取り専用でファイルを開くためのオプションは次のうちどれか。",
+      "category": "エディタを使った基本的なファイル編集の実行"
+    },
+    {
+      "question_no": 19,
+      "question_id": "14849",
+      "result": "correct",
+      "title": "カレントディレクトリのパスを格納する環境変数は次のうちどれか。",
+      "category": "コマンドラインの操作"
+    },
+    {
+      "question_no": 20,
+      "question_id": "14875",
+      "result": "correct",
+      "title": "systemdの管理単位であるユニットとして正しいものを選べ（2つ選択）",
+      "category": "ブートプロセスとsystemd"
+    },
+    {
+      "question_no": 21,
+      "question_id": "14925",
+      "result": "incorrect",
+      "title": "一般ユーザが書き込みできることによりディスク使用量が大きくなる可能性が高いため、ルートパーティションとは別のパーティションを割り当てた方がよいディレクトリは次のうちどれか。(全て選択)",
+      "category": "ハードディスクのレイアウトとパーティション"
+    },
+    {
+      "question_no": 22,
+      "question_id": "14933",
+      "result": "correct",
+      "title": "「File1」というファイルが存在する。以下のコマンドを実行した後はどうなるか。\n\n$ ln File1 File2\n$ rm -f File1",
+      "category": "ハードリンクとシンボリックリンク"
+    },
+    {
+      "question_no": 23,
+      "question_id": "15007",
+      "result": "correct",
+      "title": "APTツールにおいてapt-getとapt-cacheの機能を統合したコマンドは次のうちどれか。",
+      "category": "aptコマンドによるパッケージ管理"
+    },
+    {
+      "question_no": 24,
+      "question_id": "14418",
+      "result": "incorrect",
+      "title": "「httpd.conf」ファイルの末尾5行を表示したい。適切なコマンドは次のうちどれか。(全て選択)",
+      "category": "フィルタを使ったテキストストリームの処理"
+    },
+    {
+      "question_no": 25,
+      "question_id": "14870",
+      "result": "correct",
+      "title": "オプションや引数などを付けずにmountコマンドを実行した際の動作として正しいものはどれか、選びなさい。",
+      "category": "ファイルシステムの作成と管理、マウント"
+    },
+    {
+      "question_no": 26,
+      "question_id": "34582",
+      "result": "correct",
+      "title": "シェルスクリプト「sample.sh」の実行方法として正しいものはどれか。3つ選べ。\nなお、「sample.sh」には実行権のビットが設定されていないものとする。",
+      "category": "コマンドラインの操作"
+    },
+    {
+      "question_no": 27,
+      "question_id": "14451",
+      "result": "incorrect",
+      "title": "viエディタのコマンドモードで、カーソルをファイルの最終行へ移動するコマンドは次のうちどれか。",
+      "category": "エディタを使った基本的なファイル編集の実行"
+    },
+    {
+      "question_no": 28,
+      "question_id": "14456",
+      "result": "correct",
+      "title": "ファイルの変更内容を保存せずにviエディタを終了したい。適切なviコマンドは次のうちどれか。",
+      "category": "エディタを使った基本的なファイル編集の実行"
+    },
+    {
+      "question_no": 29,
+      "question_id": "14691",
+      "result": "correct",
+      "title": "CPUに関する情報を確認できるファイルは次のうちどれか。",
+      "category": "ハードウェアの基礎知識と設定"
+    },
+    {
+      "question_no": 30,
+      "question_id": "14729",
+      "result": "correct",
+      "title": "bashのシェル変数LPICを削除するコマンドは次うちどれか。",
+      "category": "コマンドラインの操作"
+    },
+    {
+      "question_no": 31,
+      "question_id": "14459",
+      "result": "incorrect",
+      "title": "viエディタで現在編集しているファイルを閉じて、別の「newfile」ファイルを開きたい。適切なviコマンドは次のうちどれか。(全て選択)",
+      "category": "エディタを使った基本的なファイル編集の実行"
+    },
+    {
+      "question_no": 32,
+      "question_id": "14606",
+      "result": "correct",
+      "title": "プロセスIDが1756のプロセスのみの情報を表示したい。適切なコマンドは次のうちどれか。(全て選択)",
+      "category": "プロセスの生成、監視、終了"
+    },
+    {
+      "question_no": 33,
+      "question_id": "14392",
+      "result": "correct",
+      "title": "yumコマンドを使用して、「php」パッケージがインストールされているかどうか確認したい。ただし、「php」パッケージの詳細な情報は必要ない。適切なコマンドは次のうちどれか。",
+      "category": "yumコマンドによるパッケージ管理"
+    },
+    {
+      "question_no": 34,
+      "question_id": "14394",
+      "result": "correct",
+      "title": "yumコマンドを使用して、アップデート可能なパッケージを確認したい。適切なコマンドは次のうちどれか。",
+      "category": "yumコマンドによるパッケージ管理"
+    },
+    {
+      "question_no": 35,
+      "question_id": "14607",
+      "result": "correct",
+      "title": "動作中のプロセスの親子関係をツリー状で表示するコマンドは次のうちどれか。(2つ選択)",
+      "category": "プロセスの生成、監視、終了"
+    },
+    {
+      "question_no": 36,
+      "question_id": "14476",
+      "result": "correct",
+      "title": "cpコマンドを使用してファイルをコピーする際、コピー先に既存のファイルがあり上書きできない場合は、そのファイルを削除してからコピーしたい。適切なcpコマンドのオプションは次のうちどれか。",
+      "category": "基本的なファイル管理の実行"
+    },
+    {
+      "question_no": 37,
+      "question_id": "14529",
+      "result": "correct",
+      "title": "動作中のプロセスの親子関係をツリー状で表示するpsコマンドのオプションは次のうちどれか。",
+      "category": "プロセスの生成、監視、終了"
+    },
+    {
+      "question_no": 38,
+      "question_id": "14858",
+      "result": "correct",
+      "title": "以下の「test.txt」ファイルのうち、「taro」の行にのみマッチするパターンを選びなさい。",
+      "category": "正規表現を使用したテキストファイルの検索"
+    },
+    {
+      "question_no": 39,
+      "question_id": "14665",
+      "result": "incorrect",
+      "title": "virt-managerやvirshコマンドなどが利用する、オープンソースの仮想化管理用のライブラリはどれか。",
+      "category": "仮想マシン・コンテナの概念と利用"
+    },
+    {
+      "question_no": 40,
+      "question_id": "14726",
+      "result": "correct",
+      "title": "YUMツールの設定ファイルは次のうちどれか。",
+      "category": "yumコマンドによるパッケージ管理"
+    },
+    {
+      "question_no": 41,
+      "question_id": "14769",
+      "result": "correct",
+      "title": "プログラムをバックグラウンドで動作させたい。コマンドラインの末尾に追加する文字は次のうちどれか。",
+      "category": "プロセスの生成、監視、終了"
+    },
+    {
+      "question_no": 42,
+      "question_id": "14410",
+      "result": "incorrect",
+      "title": "ファイルの内容をページ(1画面)ごとに表示するが、編集はできないコマンドは次のうちどれか。(全て選択)",
+      "category": "コマンドラインの操作"
+    },
+    {
+      "question_no": 43,
+      "question_id": "14487",
+      "result": "correct",
+      "title": "カレントディレクトリ以下から、アクセス権が775のディレクトリを検索できるコマンドは次のうちどれか。",
+      "category": "ファイルの配置と検索"
+    },
+    {
+      "question_no": 44,
+      "question_id": "14512",
+      "result": "correct",
+      "title": "「configure.bz2」ファイルを展開できるコマンドは次のうちどれか。(全て選択)",
+      "category": "基本的なファイル管理の実行"
+    },
+    {
+      "question_no": 45,
+      "question_id": "14519",
+      "result": "correct",
+      "title": "「aa」「bb」「cc」の3ファイルを1つにまとめて「hoge.tar」というアーカイブにしたい。適切なコマンドは次のうちどれか。",
+      "category": "基本的なファイル管理の実行"
+    },
+    {
+      "question_no": 46,
+      "question_id": "14553",
+      "result": "incorrect",
+      "title": "rpmコマンドを使用して、「procmail-3.22-25.1.el6.i686.rpm」パッケージを新規インストールする際、進行状況を表示させたい。適切なコマンドは次のうちどれか。(全て選択)",
+      "category": "RPMパッケージ管理"
+    },
+    {
+      "question_no": 47,
+      "question_id": "14638",
+      "result": "incorrect",
+      "title": "「original」というファイルに対して、コマンド発行後、ファイルのアクセス時刻のみが更新されるものはどれか。",
+      "category": "基本的なファイル管理の実行"
+    },
+    {
+      "question_no": 48,
+      "question_id": "14682",
+      "result": "correct",
+      "title": "メモリ上に作成できる一時的なファイルシステムは次のうちどれか。",
+      "category": "ファイルシステムの作成と管理、マウント"
+    },
+    {
+      "question_no": 49,
+      "question_id": "14684",
+      "result": "correct",
+      "title": "暗号化を用いた、リモートホストの遠隔操作用のプロトコルはどれか。",
+      "category": "Linuxのインストール、起動、接続、切断と停止"
+    },
+    {
+      "question_no": 50,
+      "question_id": "14755",
+      "result": "correct",
+      "title": "「rm ./*」コマンドを実行したときに出力されるエラーメッセージのみを、「rm.log」ファイルに出力したい。適切なコマンドは次のうちどれか。",
+      "category": "ストリーム、パイプ、リダイレクトの使用"
+    },
+    {
+      "question_no": 51,
+      "question_id": "14783",
+      "result": "correct",
+      "title": "「test.txt」ファイルに含まれる全ての「pingt」という文字列を「hoge」に置換したい。適切なコマンドは次のうちどれか。(全て選択)",
+      "category": "正規表現を使用したテキストファイルの検索"
+    },
+    {
+      "question_no": 52,
+      "question_id": "14800",
+      "result": "incorrect",
+      "title": "以下のコマンドを実行して「/dev/sdb2」を「/data」にマウントした。「/dev/sdb2」を正しく（エラーの出ないように）アンマウントできるコマンドは次のうちどれか。(3つ選択)\n\n# mount -t xfs /dev/sdb2 /data",
+      "category": "ファイルシステムの作成と管理、マウント"
+    },
+    {
+      "question_no": 53,
+      "question_id": "14826",
+      "result": "correct",
+      "title": "File1のシンボリックリンクをFile2として作成したい。適切なコマンドは次のうちどれか。",
+      "category": "ハードリンクとシンボリックリンク"
+    },
+    {
+      "question_no": 54,
+      "question_id": "14878",
+      "result": "correct",
+      "title": "systemdが稼働するシステムにおいて、システム起動時にhttpdサービスが自動起動するようにしたい。実行すべきコマンドはどれか。",
+      "category": "ブートプロセスとsystemd"
+    },
+    {
+      "question_no": 55,
+      "question_id": "14888",
+      "result": "correct",
+      "title": "systemdが稼働するシステムにおいて、次回起動時のターゲットを設定するためのsystemctlのサブコマンドはどれか",
+      "category": "ブートプロセスとsystemd"
+    },
+    {
+      "question_no": 56,
+      "question_id": "14955",
+      "result": "correct",
+      "title": "以下のコマンドで表示される結果はどれか。「file.txt」ファイルは存在するものとする。\n\n$ cat file.txt | wc -l",
+      "category": "ストリーム、パイプ、リダイレクトの使用"
+    },
+    {
+      "question_no": 57,
+      "question_id": "14984",
+      "result": "correct",
+      "title": "Dockerのコマンドで、既存のコンテナを起動するコマンドラインはどれか。",
+      "category": "仮想マシン・コンテナの概念と利用"
+    },
+    {
+      "question_no": 58,
+      "question_id": "39004",
+      "result": "correct",
+      "title": "Dockerのコマンドで、Dockerレジストリに対して認証を行うコマンドラインはどれか。",
+      "category": "仮想マシン・コンテナの概念と利用"
+    },
+    {
+      "question_no": 59,
+      "question_id": "39024",
+      "result": "correct",
+      "title": "viエディタのコマンドモードにおいて、直前の編集を繰り返すviコマンドは次のうちどれか。",
+      "category": "エディタを使った基本的なファイル編集の実行"
+    },
+    {
+      "question_no": 60,
+      "question_id": "39056",
+      "result": "correct",
+      "title": "systemdが稼働するシステムにおいて、現在のターゲットを変更して直ちにレスキューモードに切り替えたい。\n実行すべきコマンドはどれか。（2つ選択）",
+      "category": "ブートプロセスとsystemd"
+    }
+  ]
+}

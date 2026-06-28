@@ -1,0 +1,428 @@
+{
+  "created_at": "2026-06-28T09:38:41",
+  "total_count": 60,
+  "correct_count": 52,
+  "incorrect_count": 8,
+  "questions": [
+    {
+      "question_no": 1,
+      "question_id": "15021",
+      "result": "correct",
+      "title": "SSHサーバの「~/.ssh/authorized_keys」ファイルに登録されるものは次のうちどれか。",
+      "category": "Linuxのインストール、起動、接続、切断と停止"
+    },
+    {
+      "question_no": 2,
+      "question_id": "14996",
+      "result": "correct",
+      "title": "virshコマンドのサブコマンドで、仮想マシンを正常に終了するものは次のうちどれか。",
+      "category": "仮想マシン・コンテナの概念と利用"
+    },
+    {
+      "question_no": 3,
+      "question_id": "15028",
+      "result": "correct",
+      "title": "ホストOSとゲストOSの説明として正しいものはどれか。(2つ選択)",
+      "category": "仮想マシン・コンテナの概念と利用"
+    },
+    {
+      "question_no": 4,
+      "question_id": "14560",
+      "result": "correct",
+      "title": "指定したコマンド、またそのマニュアル、ソースコードが格納されている場所を検索し、絶対パスで表示するコマンドは次のうちどれか。",
+      "category": "ファイルの配置と検索"
+    },
+    {
+      "question_no": 5,
+      "question_id": "14887",
+      "result": "incorrect",
+      "title": "systemdが稼働するシステムにおいて、次回起動時のターゲットが確認できるsystemctlのサブコマンドはどれか",
+      "category": "ブートプロセスとsystemd"
+    },
+    {
+      "question_no": 6,
+      "question_id": "14912",
+      "result": "incorrect",
+      "title": "systemdの動作するシステムにおいて、メンテナンスのために以下のコマンドでシングルユーザーモードに変更し、作業を行った。\n\n# systemctl rescue\n\n作業が終わったので通常の起動状態に戻したい。どうすれば良いか（3つ選択）",
+      "category": "ブートプロセスとsystemd"
+    },
+    {
+      "question_no": 7,
+      "question_id": "14485",
+      "result": "correct",
+      "title": "カレントディレクトリにあるファイルやディレクトリをinode番号を付けて表示したい。適切なコマンドは次のうちどれか。",
+      "category": "基本的なファイル管理の実行"
+    },
+    {
+      "question_no": 8,
+      "question_id": "14431",
+      "result": "correct",
+      "title": "以下のファイルの2番目のフィールドを基準に、数値として昇順にソートしたい。適切なコマンドは次のうちどれか。",
+      "category": "フィルタを使ったテキストストリームの処理"
+    },
+    {
+      "question_no": 9,
+      "question_id": "14422",
+      "result": "correct",
+      "title": "タブをスペースに変換するコマンドは次のうちどれか。",
+      "category": "フィルタを使ったテキストストリームの処理"
+    },
+    {
+      "question_no": 10,
+      "question_id": "14784",
+      "result": "correct",
+      "title": "「test.txt」ファイルの各行の最初に現れる「pingt」という文字列のみを「hoge」に置換したい。適切なコマンドは次のうちどれか。(全て選択)",
+      "category": "正規表現を使用したテキストファイルの検索"
+    },
+    {
+      "question_no": 11,
+      "question_id": "14803",
+      "result": "correct",
+      "title": "ext3ファイルシステムの「/dev/sda1」を「/export」に読み取り専用でマウントしたい。適切なコマンドは次のうちどれか。",
+      "category": "ファイルシステムの作成と管理、マウント"
+    },
+    {
+      "question_no": 12,
+      "question_id": "14672",
+      "result": "correct",
+      "title": "viエディタのコマンドモードで、カーソルを行の先頭の文字へ移動するviコマンドは次のうちどれか。",
+      "category": "エディタを使った基本的なファイル編集の実行"
+    },
+    {
+      "question_no": 13,
+      "question_id": "14461",
+      "result": "correct",
+      "title": "viエディタのコマンドモードにおいて、カーソルの右にバッファの内容を貼り付けるviコマンドは次のうちどれか。",
+      "category": "エディタを使った基本的なファイル編集の実行"
+    },
+    {
+      "question_no": 14,
+      "question_id": "14618",
+      "result": "correct",
+      "title": "物理的な記憶デバイスの領域をまとめ、それを論理的なひとつの大きな記憶デバイスとして扱うことで、物理的なパーティションの仕様に由来する制限を回避できるシステムの名称はどれか。\n最も適切なものを選びなさい。",
+      "category": "ハードディスクのレイアウトとパーティション"
+    },
+    {
+      "question_no": 15,
+      "question_id": "14689",
+      "result": "correct",
+      "title": "接続されたUSBデバイスの情報を表示するコマンドは次のうちどれか。",
+      "category": "ハードウェアの基礎知識と設定"
+    },
+    {
+      "question_no": 16,
+      "question_id": "14896",
+      "result": "incorrect",
+      "title": "UEFIの特徴として正しいものはどれか（2つ選択）",
+      "category": "ハードディスクのレイアウトとパーティション"
+    },
+    {
+      "question_no": 17,
+      "question_id": "14625",
+      "result": "correct",
+      "title": "bzip2より圧縮率が高い圧縮形式はどれか",
+      "category": "基本的なファイル管理の実行"
+    },
+    {
+      "question_no": 18,
+      "question_id": "14433",
+      "result": "correct",
+      "title": "指定した行数でファイルを分割するコマンドは次のうちどれか。",
+      "category": "フィルタを使ったテキストストリームの処理"
+    },
+    {
+      "question_no": 19,
+      "question_id": "14679",
+      "result": "correct",
+      "title": "指定したカーネルモジュールだけをアンロードするコマンドは次のうちどれか。",
+      "category": "ハードウェアの基礎知識と設定"
+    },
+    {
+      "question_no": 20,
+      "question_id": "14350",
+      "result": "correct",
+      "title": "スワップ領域の説明として正しいものは次のうちどれか。",
+      "category": "ハードディスクのレイアウトとパーティション"
+    },
+    {
+      "question_no": 21,
+      "question_id": "14427",
+      "result": "correct",
+      "title": "2つのファイルを読み込み、共通するフィールドがある行を結合して表示するコマンドは次のうちどれか。",
+      "category": "フィルタを使ったテキストストリームの処理"
+    },
+    {
+      "question_no": 22,
+      "question_id": "14440",
+      "result": "correct",
+      "title": "指定した文字を変換・削除するコマンドは次のうちどれか。",
+      "category": "フィルタを使ったテキストストリームの処理"
+    },
+    {
+      "question_no": 23,
+      "question_id": "14504",
+      "result": "correct",
+      "title": "「file.txt」ファイルのアクセス時刻のみを2012年1月1日11:22:33に変更したい。適切なコマンドは次のうちどれか。",
+      "category": "基本的なファイル管理の実行"
+    },
+    {
+      "question_no": 24,
+      "question_id": "14762",
+      "result": "correct",
+      "title": "標準入力の内容をディスプレイとファイルに出力するコマンドは次のうちどれか。",
+      "category": "ストリーム、パイプ、リダイレクトの使用"
+    },
+    {
+      "question_no": 25,
+      "question_id": "15015",
+      "result": "correct",
+      "title": "OpenSSHにおけるSSHサーバの設定ファイルは次のうちどれか。",
+      "category": "Linuxのインストール、起動、接続、切断と停止"
+    },
+    {
+      "question_no": 26,
+      "question_id": "15030",
+      "result": "correct",
+      "title": "CPUの仮想化支援機能は次のうちどれか。(2つ選択)",
+      "category": "仮想マシン・コンテナの概念と利用"
+    },
+    {
+      "question_no": 27,
+      "question_id": "15035",
+      "result": "correct",
+      "title": "現在、sshでリモートホスト「server」にログインしている。ログアウトするにはどのようなキー操作を行えばよいか。",
+      "category": "Linuxのインストール、起動、接続、切断と停止"
+    },
+    {
+      "question_no": 28,
+      "question_id": "34968",
+      "result": "incorrect",
+      "title": "Linuxディストリビューションのインストーラでは、パッケージグループを選択することがある。\nこれについて、正しい説明はどれか。（2つ選択）",
+      "category": "Linuxのインストール、起動、接続、切断と停止"
+    },
+    {
+      "question_no": 29,
+      "question_id": "39050",
+      "result": "correct",
+      "title": "カレントディレクトリにテキストファイル「FileA」、「FileB」がある。\n「FileA」と「FileB」の内容を合わせて並び替え、重複行を除き、結果を別のファイル「List」に追記するには次のどのコマンドを実行すればよいか。",
+      "category": "ストリーム、パイプ、リダイレクトの使用"
+    },
+    {
+      "question_no": 30,
+      "question_id": "14870",
+      "result": "correct",
+      "title": "オプションや引数などを付けずにmountコマンドを実行した際の動作として正しいものはどれか、選びなさい。",
+      "category": "ファイルシステムの作成と管理、マウント"
+    },
+    {
+      "question_no": 31,
+      "question_id": "34706",
+      "result": "incorrect",
+      "title": "現在実行中のhttpdのプロセスを全て表示するために\n$ ps ax | grep httpd\nを実行した。\n結果を確認したところ、このコマンドに含まれる grep httpd まで抽出されているため 1件多いようである。\nこの問題を解決できるコマンドはどれか。(2つ選択)",
+      "category": "プロセスの生成、監視、終了"
+    },
+    {
+      "question_no": 32,
+      "question_id": "14924",
+      "result": "incorrect",
+      "title": "「ln fileA fileB」とした場合、「変化するもの：変化しないもの」の組み合わせで正しいのはどれか。",
+      "category": "ハードリンクとシンボリックリンク"
+    },
+    {
+      "question_no": 33,
+      "question_id": "14391",
+      "result": "correct",
+      "title": "yumコマンドを使用して、「php」パッケージの詳細な情報を表示させたい。適切なコマンドは次のうちどれか。",
+      "category": "yumコマンドによるパッケージ管理"
+    },
+    {
+      "question_no": 34,
+      "question_id": "14579",
+      "result": "correct",
+      "title": "「file」ファイルを500行ごとに分割したものを別のファイルに保存したい。また、保存するファイル名は「hogeaa」、「hogeab」などのようにしたい。適切なコマンドは次のうちどれか。",
+      "category": "フィルタを使ったテキストストリームの処理"
+    },
+    {
+      "question_no": 35,
+      "question_id": "14466",
+      "result": "correct",
+      "title": "viエディタで、カーソル位置からファイルの先頭に向かって文字列「sbin」を検索したい。適切なviコマンドは次のうちどれか。",
+      "category": "エディタを使った基本的なファイル編集の実行"
+    },
+    {
+      "question_no": 36,
+      "question_id": "14845",
+      "result": "correct",
+      "title": "現在のシェルでのコマンド履歴の保存数を格納する環境変数は次のうちどれか。",
+      "category": "コマンドラインの操作"
+    },
+    {
+      "question_no": 37,
+      "question_id": "14726",
+      "result": "correct",
+      "title": "YUMツールの設定ファイルは次のうちどれか。",
+      "category": "yumコマンドによるパッケージ管理"
+    },
+    {
+      "question_no": 38,
+      "question_id": "14352",
+      "result": "correct",
+      "title": "dpkgコマンドを使用して、「procmail_3.22-16_i386.deb」パッケージをインストールしたい。適切なコマンドは次のうちどれか。(全て選択)",
+      "category": "Debianパッケージ管理"
+    },
+    {
+      "question_no": 39,
+      "question_id": "14381",
+      "result": "correct",
+      "title": "rpmコマンドを使用して、「/etc/yum.conf」ファイルのインストール元パッケージを表示させたい。適切なコマンドは次のうちどれか。(全て選択)",
+      "category": "RPMパッケージ管理"
+    },
+    {
+      "question_no": 40,
+      "question_id": "14509",
+      "result": "correct",
+      "title": "「configure」ファイルをgzip形式で圧縮したい。適切なコマンドは次のうちどれか。",
+      "category": "基本的なファイル管理の実行"
+    },
+    {
+      "question_no": 41,
+      "question_id": "14516",
+      "result": "correct",
+      "title": "「test.tar」というアーカイブの内容を表示できるコマンドは次のうちどれか。なお、アーカイブは展開しないものとする。(2つ選択)",
+      "category": "基本的なファイル管理の実行"
+    },
+    {
+      "question_no": 42,
+      "question_id": "14760",
+      "result": "correct",
+      "title": "以下のコマンドを実行した場合、表示される内容は次のうちどれか。「>」はプロンプトである。\n\n$ cat << world\n> Hello world 1\n> Hello world 2\n> world",
+      "category": "ストリーム、パイプ、リダイレクトの使用"
+    },
+    {
+      "question_no": 43,
+      "question_id": "14824",
+      "result": "correct",
+      "title": "シンボリックリンクの説明として正しいものは次のうちどれか。(全て選択)",
+      "category": "ハードリンクとシンボリックリンク"
+    },
+    {
+      "question_no": 44,
+      "question_id": "14833",
+      "result": "correct",
+      "title": "「file.txt」の所有グループのみをtestからstaffgroupに変更したい。適切なコマンドは次のうちどれか。(全て選択)",
+      "category": "ファイルの所有者とパーミッション"
+    },
+    {
+      "question_no": 45,
+      "question_id": "14842",
+      "result": "correct",
+      "title": "「dir」ディレクトリ内において、自分以外のユーザが所有するファイルを削除できないようにしたい。なお、「dir」ディレクトリのパーミッションは755である。適切なコマンドは次のうちどれか。(全て選択)",
+      "category": "ファイルの所有者とパーミッション"
+    },
+    {
+      "question_no": 46,
+      "question_id": "14879",
+      "result": "correct",
+      "title": "systemdが稼働するシステムにおいて、システム起動時にhttpdサービスが自動起動しないようにしたい。実行すべきコマンドはどれか。",
+      "category": "ブートプロセスとsystemd"
+    },
+    {
+      "question_no": 47,
+      "question_id": "14884",
+      "result": "correct",
+      "title": "systemdが稼働するシステムにおいて、次回起動時のランレベルの確認作業を行った。\n\n\n空欄に当てはまるものはどれか（2つ選択）",
+      "category": "ブートプロセスとsystemd"
+    },
+    {
+      "question_no": 48,
+      "question_id": "14926",
+      "result": "correct",
+      "title": "シェルから起動したアプリケーションやコマンドでも有効な環境変数を作成したり、シェル変数を環境変数に変更したりできるコマンドは次のうちどれか。(2つ選択)",
+      "category": "コマンドラインの操作"
+    },
+    {
+      "question_no": 49,
+      "question_id": "14952",
+      "result": "correct",
+      "title": "root以外の一般ユーザで以下のコマンドを実行した。結果はどうなるか。\n\n$ mount",
+      "category": "ファイルシステムの作成と管理、マウント"
+    },
+    {
+      "question_no": 50,
+      "question_id": "14953",
+      "result": "correct",
+      "title": "「/dev/sr0」として認識されている内蔵CD-ROMドライブを「/mnt/cdrom」にマウントしたい。「/etc/fstab」ファイルには、これを実現する為のエントリを追加していない。適切なコマンドは次のうちどれか。",
+      "category": "ファイルシステムの作成と管理、マウント"
+    },
+    {
+      "question_no": 51,
+      "question_id": "15004",
+      "result": "correct",
+      "title": "ハードリンクとシンボリックリンクそれぞれの説明として正しいものはどれか。(3つ選択)",
+      "category": "ハードリンクとシンボリックリンク"
+    },
+    {
+      "question_no": 52,
+      "question_id": "15019",
+      "result": "correct",
+      "title": "SSH接続時のユーザ認証（公開鍵方式）の説明として正しいものはどれか。",
+      "category": "Linuxのインストール、起動、接続、切断と停止"
+    },
+    {
+      "question_no": 53,
+      "question_id": "15025",
+      "result": "correct",
+      "title": "現在、sshでリモートホスト「server」にログインしている。作業を終えたので通信を切断したい。\n適切なコマンドはどれか。(2つ選択)",
+      "category": "Linuxのインストール、起動、接続、切断と停止"
+    },
+    {
+      "question_no": 54,
+      "question_id": "35538",
+      "result": "correct",
+      "title": "以下のコマンドを実行した場合に表示されるファイルはどれか。",
+      "category": "コマンドラインの操作"
+    },
+    {
+      "question_no": 55,
+      "question_id": "39004",
+      "result": "correct",
+      "title": "Dockerのコマンドで、Dockerレジストリに対して認証を行うコマンドラインはどれか。",
+      "category": "仮想マシン・コンテナの概念と利用"
+    },
+    {
+      "question_no": 56,
+      "question_id": "39024",
+      "result": "incorrect",
+      "title": "viエディタのコマンドモードにおいて、直前の編集を繰り返すviコマンドは次のうちどれか。",
+      "category": "エディタを使った基本的なファイル編集の実行"
+    },
+    {
+      "question_no": 57,
+      "question_id": "39030",
+      "result": "incorrect",
+      "title": "viエディタのコマンドモードでの操作について、正しい説明はどれか。（2つ選択）",
+      "category": "エディタを使った基本的なファイル編集の実行"
+    },
+    {
+      "question_no": 58,
+      "question_id": "39055",
+      "result": "correct",
+      "title": "以下の「ls -l」の実行結果からわかることはなにか。（2つ選択）",
+      "category": "ハードリンクとシンボリックリンク"
+    },
+    {
+      "question_no": 59,
+      "question_id": "39107",
+      "result": "correct",
+      "title": "仮想化されたコンピューティング環境について、正しい説明はどれか。（2つ選択）",
+      "category": "仮想マシン・コンテナの概念と利用"
+    },
+    {
+      "question_no": 60,
+      "question_id": "39117",
+      "result": "correct",
+      "title": "スティッキービットが設定された「/tmp」ディレクトリの表示結果について、正しい説明はどれか。（3つ選択）",
+      "category": "ファイルの所有者とパーミッション"
+    }
+  ]
+}

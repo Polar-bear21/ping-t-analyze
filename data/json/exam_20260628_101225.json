@@ -1,0 +1,428 @@
+{
+  "created_at": "2026-06-28T10:12:25",
+  "total_count": 60,
+  "correct_count": 43,
+  "incorrect_count": 17,
+  "questions": [
+    {
+      "question_no": 1,
+      "question_id": "14997",
+      "result": "correct",
+      "title": "virshコマンドのサブコマンドで、仮想マシンを強制終了するものは次のうちどれか。",
+      "category": "仮想マシン・コンテナの概念と利用"
+    },
+    {
+      "question_no": 2,
+      "question_id": "14646",
+      "result": "correct",
+      "title": "完全なフォーマットでプロセスを表示するpsコマンドのUNIXオプションは次のうちどれか。",
+      "category": "プロセスの生成、監視、終了"
+    },
+    {
+      "question_no": 3,
+      "question_id": "14554",
+      "result": "correct",
+      "title": "ハードリンクの説明として正しいものは次のうちどれか。(全て選択)",
+      "category": "ハードリンクとシンボリックリンク"
+    },
+    {
+      "question_no": 4,
+      "question_id": "14752",
+      "result": "correct",
+      "title": "終了文字が現れるまで、コマンドの標準入力に入力を続けるリダイレクト演算子は次のうちどれか。",
+      "category": "ストリーム、パイプ、リダイレクトの使用"
+    },
+    {
+      "question_no": 5,
+      "question_id": "14761",
+      "result": "correct",
+      "title": "dmesgコマンドの標準出力を、lessコマンドの標準入力に渡したい。適切なコマンドは次のうちどれか。",
+      "category": "ストリーム、パイプ、リダイレクトの使用"
+    },
+    {
+      "question_no": 6,
+      "question_id": "14831",
+      "result": "correct",
+      "title": "「file.txt」ファイルの所有ユーザをtestからstaffに変更したい。ただし所有グループに関しては変更しない。適切なコマンドは次のうちどれか。",
+      "category": "ファイルの所有者とパーミッション"
+    },
+    {
+      "question_no": 7,
+      "question_id": "35539",
+      "result": "correct",
+      "title": "user01ユーザでログインしている。このユーザのホームディレクトリ直下にある.shファイルは「a.sh」と「1.sh」である。\nこの 2つのファイルを表示するコマンドはどれか。（2つ選択）",
+      "category": "コマンドラインの操作"
+    },
+    {
+      "question_no": 8,
+      "question_id": "14446",
+      "result": "correct",
+      "title": "viエディタのコマンドモードで、カーソルを1文字下へ移動するviコマンドは次のうちどれか。",
+      "category": "エディタを使った基本的なファイル編集の実行"
+    },
+    {
+      "question_no": 9,
+      "question_id": "14674",
+      "result": "correct",
+      "title": "apt-fileコマンドを使用して、パスに「docker」が入っているファイルを含むパッケージを検索したい。適切なコマンドは次のうちどれか。(2つ選択)",
+      "category": "aptコマンドによるパッケージ管理"
+    },
+    {
+      "question_no": 10,
+      "question_id": "14679",
+      "result": "correct",
+      "title": "指定したカーネルモジュールだけをアンロードするコマンドは次のうちどれか。",
+      "category": "ハードウェアの基礎知識と設定"
+    },
+    {
+      "question_no": 11,
+      "question_id": "14739",
+      "result": "correct",
+      "title": "カレントディレクトリの1つ上の階層（親ディレクトリ）を表す特殊記号は次のうちどれか。",
+      "category": "コマンドラインの操作"
+    },
+    {
+      "question_no": 12,
+      "question_id": "14393",
+      "result": "incorrect",
+      "title": "yumコマンドを使用して、キーワード「yum」を含むパッケージを表示させたい。適切なコマンドは次のうちどれか。",
+      "category": "yumコマンドによるパッケージ管理"
+    },
+    {
+      "question_no": 13,
+      "question_id": "14398",
+      "result": "correct",
+      "title": "bashシェルで実行したコマンドの履歴を表示するコマンドと、履歴を保存するファイルを選べ。",
+      "category": "コマンドラインの操作"
+    },
+    {
+      "question_no": 14,
+      "question_id": "14486",
+      "result": "correct",
+      "title": "カレントディレクトリの内容を表示させたい。また、カレントディレクトリ内にあるディレクトリ(サブディレクトリ)の内容も再帰的に表示させたい。適切なコマンドは次のうちどれか。",
+      "category": "基本的なファイル管理の実行"
+    },
+    {
+      "question_no": 15,
+      "question_id": "14493",
+      "result": "correct",
+      "title": "findコマンドでファイルを検索する際、検索するディレクトリの階層数を指定したい。適切な検索式は次のうちどれか。（全て選択）",
+      "category": "ファイルの配置と検索"
+    },
+    {
+      "question_no": 16,
+      "question_id": "14595",
+      "result": "correct",
+      "title": "trコマンドで使用する文字クラスのうち、スペースを表すものは次のうちどれか。",
+      "category": "フィルタを使ったテキストストリームの処理"
+    },
+    {
+      "question_no": 17,
+      "question_id": "14612",
+      "result": "correct",
+      "title": "viエディタであるファイルを編集しているが、別ファイルである「test.txt」の内容をカレント行の次の行に読み込みたい。適切なviコマンドは次のうちどれか。",
+      "category": "エディタを使った基本的なファイル編集の実行"
+    },
+    {
+      "question_no": 18,
+      "question_id": "14744",
+      "result": "correct",
+      "title": "viエディタでコマンドモードから入力モードに移行する際、カーソルの左から文字を入力したい。適切なviコマンドは次のうちどれか。",
+      "category": "エディタを使った基本的なファイル編集の実行"
+    },
+    {
+      "question_no": 19,
+      "question_id": "14748",
+      "result": "correct",
+      "title": "viエディタでコマンドモードから入力モードに移行する際、カーソルのある行の下に空白行を挿入し、その行で文字を入力したい。適切なviコマンドは次のうちどれか。",
+      "category": "エディタを使った基本的なファイル編集の実行"
+    },
+    {
+      "question_no": 20,
+      "question_id": "14801",
+      "result": "correct",
+      "title": "「/etc/mtab」ファイルに記載されているファイルシステムを全てアンマウントするumountコマンドのオプションは次のうちどれか。",
+      "category": "ファイルシステムの作成と管理、マウント"
+    },
+    {
+      "question_no": 21,
+      "question_id": "14906",
+      "result": "incorrect",
+      "title": "systemdの管理単位であるユニットとして正しいものを選べ（3つ選択）",
+      "category": "ブートプロセスとsystemd"
+    },
+    {
+      "question_no": 22,
+      "question_id": "14987",
+      "result": "correct",
+      "title": "Dockerのコマンドで、コンテナを削除するコマンドラインはどれか。",
+      "category": "仮想マシン・コンテナの概念と利用"
+    },
+    {
+      "question_no": 23,
+      "question_id": "14688",
+      "result": "correct",
+      "title": "PCIデバイスの情報を表示するコマンドは次のうちどれか。",
+      "category": "ハードウェアの基礎知識と設定"
+    },
+    {
+      "question_no": 24,
+      "question_id": "34888",
+      "result": "incorrect",
+      "title": "仮想マシンと比較して、コンテナが優れている点はどれか。（3つ選択）",
+      "category": "仮想マシン・コンテナの概念と利用"
+    },
+    {
+      "question_no": 25,
+      "question_id": "14630",
+      "result": "correct",
+      "title": "端末上で複数の仮想端末を開くことのできるプログラムはどれか（2つ選択）",
+      "category": "プロセスの生成、監視、終了"
+    },
+    {
+      "question_no": 26,
+      "question_id": "14610",
+      "result": "incorrect",
+      "title": "viエディタのコマンドモードにおいて、カーソル位置の単語を削除するviコマンドは次のうちどれか。",
+      "category": "エディタを使った基本的なファイル編集の実行"
+    },
+    {
+      "question_no": 27,
+      "question_id": "14729",
+      "result": "correct",
+      "title": "bashのシェル変数LPICを削除するコマンドは次うちどれか。",
+      "category": "コマンドラインの操作"
+    },
+    {
+      "question_no": 28,
+      "question_id": "14460",
+      "result": "correct",
+      "title": "viエディタのコマンドモードにおいて、カーソルのある行を含めて5行を切り取り、バッファにコピーしたい。適切なviコマンドは次のうちどれか。",
+      "category": "エディタを使った基本的なファイル編集の実行"
+    },
+    {
+      "question_no": 29,
+      "question_id": "14331",
+      "result": "incorrect",
+      "title": "システム起動時においてのカーネルの説明として正しいものは次のうちどれか。(全て選択)",
+      "category": "ブートプロセスとsystemd"
+    },
+    {
+      "question_no": 30,
+      "question_id": "34969",
+      "result": "correct",
+      "title": "ファイルの新規作成において、所有者が読み取り・書き込み可能で、所有グループ及びその他のユーザが読み取りのみ可能となるようなパーミッションを設定するためのumask値はどれか。",
+      "category": "ファイルの所有者とパーミッション"
+    },
+    {
+      "question_no": 31,
+      "question_id": "14812",
+      "result": "incorrect",
+      "title": "「/etc/fstab」ファイルでマウントオプションとしてdefaultsを指定した場合、どのマウントオプションが指定されたことになるか。",
+      "category": "ファイルシステムの作成と管理、マウント"
+    },
+    {
+      "question_no": 32,
+      "question_id": "15017",
+      "result": "incorrect",
+      "title": "OpenSSHにおいてSSHサーバの公開鍵/秘密鍵が保存されるディレクトリは次のうちどれか。",
+      "category": "Linuxのインストール、起動、接続、切断と停止"
+    },
+    {
+      "question_no": 33,
+      "question_id": "14472",
+      "result": "incorrect",
+      "title": "「/etc/hosts」ファイル内の英小文字を英大文字に変換して表示させたい。適切なコマンドは次のうちどれか。(全て選択)",
+      "category": "フィルタを使ったテキストストリームの処理"
+    },
+    {
+      "question_no": 34,
+      "question_id": "14677",
+      "result": "correct",
+      "title": "大容量記憶装置の特徴として正しいものはどれか（4つ選択）",
+      "category": "ハードウェアの基礎知識と設定"
+    },
+    {
+      "question_no": 35,
+      "question_id": "14527",
+      "result": "correct",
+      "title": "プロセスの稼動状況を一定時間ごとに更新して表示するコマンドは次のうちどれか。",
+      "category": "プロセスの生成、監視、終了"
+    },
+    {
+      "question_no": 36,
+      "question_id": "14536",
+      "result": "correct",
+      "title": "以下の「test.txt」ファイルのうち、「123」の行とのみマッチする正規表現はどれか。（2つ選択）",
+      "category": "正規表現を使用したテキストファイルの検索"
+    },
+    {
+      "question_no": 37,
+      "question_id": "14538",
+      "result": "correct",
+      "title": "dpkgコマンドを使用して、「packages」ディレクトリに格納されているパッケージをまとめてインストールしたい。適切なコマンドは次のうちどれか。(全て選択)",
+      "category": "Debianパッケージ管理"
+    },
+    {
+      "question_no": 38,
+      "question_id": "14838",
+      "result": "correct",
+      "title": "「dir」ディレクトリおよびその配下にあるファイルのパーミッションを755に設定したい。適切なコマンドは次のうちどれか。(全て選択)",
+      "category": "ファイルの所有者とパーミッション"
+    },
+    {
+      "question_no": 39,
+      "question_id": "14852",
+      "result": "incorrect",
+      "title": "現在ログインしているユーザはrootである。testユーザのホームディレクトリに移動できるコマンドは次のうちどれか。なお、カレントディレクトリは「/etc」である。",
+      "category": "コマンドラインの操作"
+    },
+    {
+      "question_no": 40,
+      "question_id": "14727",
+      "result": "correct",
+      "title": "YUMツールではネットワーク経由で最新のパッケージを取得することができる。パッケージの取得元(リポジトリ)を設定するファイルが格納されているディレクトリは次のうちどれか。",
+      "category": "yumコマンドによるパッケージ管理"
+    },
+    {
+      "question_no": 41,
+      "question_id": "14769",
+      "result": "correct",
+      "title": "プログラムをバックグラウンドで動作させたい。コマンドラインの末尾に追加する文字は次のうちどれか。",
+      "category": "プロセスの生成、監視、終了"
+    },
+    {
+      "question_no": 42,
+      "question_id": "14356",
+      "result": "correct",
+      "title": "dpkgコマンドを使用して、「ssh」パッケージからインストールされたファイルを一覧表示させたい。適切なコマンドは次のうちどれか。(全て選択)",
+      "category": "Debianパッケージ管理"
+    },
+    {
+      "question_no": 43,
+      "question_id": "14381",
+      "result": "correct",
+      "title": "rpmコマンドを使用して、「/etc/yum.conf」ファイルのインストール元パッケージを表示させたい。適切なコマンドは次のうちどれか。(全て選択)",
+      "category": "RPMパッケージ管理"
+    },
+    {
+      "question_no": 44,
+      "question_id": "14387",
+      "result": "incorrect",
+      "title": "rpmコマンドを使用して、インストールされている全パッケージの検査を行いたい。適切なコマンドは次のうちどれか。(全て選択)",
+      "category": "RPMパッケージ管理"
+    },
+    {
+      "question_no": 45,
+      "question_id": "14409",
+      "result": "correct",
+      "title": "lsコマンドのオンラインマニュアルを参照するコマンドは次のうちどれか。",
+      "category": "コマンドラインの操作"
+    },
+    {
+      "question_no": 46,
+      "question_id": "14413",
+      "result": "incorrect",
+      "title": "「file」ファイルを行番号をつけて出力したい。適切なコマンドは次のうちどれか。なお、行番号は空行を除いた行に付けることとする。(全て選択)",
+      "category": "フィルタを使ったテキストストリームの処理"
+    },
+    {
+      "question_no": 47,
+      "question_id": "14481",
+      "result": "correct",
+      "title": "カレントディレクトリにあるファイルやディレクトリを、隠しファイルも含めて表示したい。適切なコマンドは次のうちどれか。(2つ選択)",
+      "category": "基本的なファイル管理の実行"
+    },
+    {
+      "question_no": 48,
+      "question_id": "14503",
+      "result": "correct",
+      "title": "「file.txt」ファイルのタイムスタンプを現在の時刻に変更したい。適切なコマンドは次のうちどれか。",
+      "category": "基本的なファイル管理の実行"
+    },
+    {
+      "question_no": 49,
+      "question_id": "14523",
+      "result": "incorrect",
+      "title": "ddコマンドのオプションのうち、入力ファイルから出力ファイルへブロックをコピーする回数を指定するオプションは次のうちどれか。",
+      "category": "基本的なファイル管理の実行"
+    },
+    {
+      "question_no": 50,
+      "question_id": "14631",
+      "result": "incorrect",
+      "title": "次世代のLinux標準ファイルシステムとなるべく開発中で、ディレクトリの一部をサブボリュームとして個別のファイルシステムのように扱えるファイルシステムはどれか。",
+      "category": "ファイルシステムの作成と管理、マウント"
+    },
+    {
+      "question_no": 51,
+      "question_id": "14708",
+      "result": "correct",
+      "title": "ユーザ数百人が利用すると想定されるファイルサーバを構築したい。ルートパーティションとは別のパーティションとして構成した方がよいと考えられるディレクトリは次のうちどれか。",
+      "category": "ハードディスクのレイアウトとパーティション"
+    },
+    {
+      "question_no": 52,
+      "question_id": "14756",
+      "result": "incorrect",
+      "title": "「sh test.sh」コマンドを実行した時に出力される標準出力と標準エラー出力の両方を「out.log」ファイルに保存したい。適切なコマンドは次のうちどれか。",
+      "category": "ストリーム、パイプ、リダイレクトの使用"
+    },
+    {
+      "question_no": 53,
+      "question_id": "14790",
+      "result": "correct",
+      "title": "直前の文字の1回以上の繰り返しを意味する正規表現は次のうちどれか。",
+      "category": "正規表現を使用したテキストファイルの検索"
+    },
+    {
+      "question_no": 54,
+      "question_id": "14833",
+      "result": "correct",
+      "title": "「file.txt」の所有グループのみをtestからstaffgroupに変更したい。適切なコマンドは次のうちどれか。(全て選択)",
+      "category": "ファイルの所有者とパーミッション"
+    },
+    {
+      "question_no": 55,
+      "question_id": "14940",
+      "result": "incorrect",
+      "title": "従来のinitプログラムを置き換えるsystemdの特徴はどれか。（3つ選択）",
+      "category": "ブートプロセスとsystemd"
+    },
+    {
+      "question_no": 56,
+      "question_id": "14990",
+      "result": "incorrect",
+      "title": "Dockerのコマンドで、Docker Hubにイメージをアップロードするコマンドラインはどれか。",
+      "category": "仮想マシン・コンテナの概念と利用"
+    },
+    {
+      "question_no": 57,
+      "question_id": "15004",
+      "result": "correct",
+      "title": "ハードリンクとシンボリックリンクそれぞれの説明として正しいものはどれか。(3つ選択)",
+      "category": "ハードリンクとシンボリックリンク"
+    },
+    {
+      "question_no": 58,
+      "question_id": "34684",
+      "result": "correct",
+      "title": "ヒアドキュメントの機能について正しい説明はどれか。",
+      "category": "ストリーム、パイプ、リダイレクトの使用"
+    },
+    {
+      "question_no": 59,
+      "question_id": "35527",
+      "result": "correct",
+      "title": "ディレクトリの新規作成において、所有者の読み取り・書き込み・実行を許可、所有グループの読み取り・実行を許可、その他のユーザにはアクセス自体を禁止（全てを禁止）するようなパーミッションを設定するためのumask値はどれか。",
+      "category": "ファイルの所有者とパーミッション"
+    },
+    {
+      "question_no": 60,
+      "question_id": "39030",
+      "result": "incorrect",
+      "title": "viエディタのコマンドモードでの操作について、正しい説明はどれか。（2つ選択）",
+      "category": "エディタを使った基本的なファイル編集の実行"
+    }
+  ]
+}
